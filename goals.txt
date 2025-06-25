@@ -1,0 +1,6 @@
+## My Personal and Academic Goals for Next Year
+
+- Master backend development with Node.js and databases
+- Complete my software engineering program
+- Contribute to open-source projects
+- Build a tech-focused portfolio website
